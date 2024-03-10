@@ -1,2 +1,2 @@
 # Test
-## Getting familiar with Git
+A repository to getting familiar with Git and to make mess safely!
